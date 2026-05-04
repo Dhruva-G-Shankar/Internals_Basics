@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Dhruva G Shankar/Internals_Basics/MLOPs_Lab_CIE/mlruns/693706608246707361/51fe21d271664d2eb7d8bb9272bf58cc/artifacts
+end_time: 1777869045336
+entry_point_name: ''
+experiment_id: '693706608246707361'
+lifecycle_stage: active
+run_id: 51fe21d271664d2eb7d8bb9272bf58cc
+run_name: trial_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777869044334
+status: 3
+tags: []
+user_id: Dhruva G Shankar

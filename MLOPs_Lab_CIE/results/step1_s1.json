@@ -1,0 +1,18 @@
+{
+    "experiment_name": "copilotbench-suggestion-accept-rate",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 0.048512,
+            "rmse": 0.062547
+        },
+        {
+            "name": "Ridge",
+            "mae": 0.062961,
+            "rmse": 0.079942
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "rmse",
+    "best_metric_value": 0.062547
+}
